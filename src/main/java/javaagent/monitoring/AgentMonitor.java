@@ -1,4 +1,4 @@
-package org.telosys.javaagent.monitoring;
+package javaagent.monitoring;
 
 import java.lang.instrument.Instrumentation;
 
